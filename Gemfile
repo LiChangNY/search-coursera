@@ -51,4 +51,4 @@ group :production do
   gem 'rails_12factor'
 end
 
-gem 'httparty', '0.13.5'
+gem 'httparty', '0.21.0'
